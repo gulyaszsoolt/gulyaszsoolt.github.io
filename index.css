@@ -8,13 +8,13 @@ h2{
 	color: midnightblue;
 }
 img.kepek {
-  margin: 20px 0px; 
-  border: 5px blue;
-  border-radius: 10px;
-  padding: 5px;
+  margin: 20px 0px;
+  border-radius: 4px;
   height: 150px;
+  padding: 0px;
   justify-content: center;
-
+  border: outset 5px;
+  border-color: cornflowerblue;
 }
 body{
 	margin-left: 350px;
@@ -35,4 +35,5 @@ html { background-color: cadetblue; }
 img.nyelvvizsga{
 	height: 24px;
 }
+
 
