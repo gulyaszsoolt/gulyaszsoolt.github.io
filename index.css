@@ -4,7 +4,7 @@ h1{
 }
 h2{
 	text-decoration: underline;
-	color: darkblue;
+	color: midnightblue;
 }
 img.kepek {
   margin: 20px 0px; 
@@ -19,14 +19,19 @@ body{
 	margin-left: 350px;
 	margin-right: 350px ;
 	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
 	background-color: cornsilk;
 	border-radius: 10px;
 }
 h1{
-	background-color: #696969;
+	background-color: midnightblue;
 	border-radius: 10px;
+	margin-right: -20px;
+	margin-left: -20px;
 }
-html { background-color: #B8B8B8; }
+html { background-color: cadetblue; }
 img.nyelvvizsga{
 	height: 24px;
 }
+
